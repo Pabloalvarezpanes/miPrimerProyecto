@@ -1,2 +1,3 @@
 Objetivos del curso:
     - Primer objetivo: Conseguir conocimientos informáticos de programación
+    - Segundo objetivo: Aprender a trabajar en proyectos grupales
